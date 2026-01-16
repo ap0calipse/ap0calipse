@@ -36,10 +36,6 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 ## 🕹️ Contribuições
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ap0calipse&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
