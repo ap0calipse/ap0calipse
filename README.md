@@ -27,7 +27,7 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 ## 🛠️ Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,windows" />
 </p>
 
 ---
@@ -36,17 +36,3 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🤝 Vamos Conversar?
-
-<p align="center">
-  <a href="mailto:korinsenzu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/dev.vortexyz">
-    <img src="https://img.shields.io/badge/Instagram-dev.vortexyz-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
