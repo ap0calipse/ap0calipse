@@ -32,7 +32,7 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 
 ---
 
-## 🐍 Snake Activity
+## 🕹️ Snake Activity
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
