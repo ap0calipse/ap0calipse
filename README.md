@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou <span style="color:#00bfbf; font-weight:800;">Ruan Fernandes</span>
+  Olá, eu sou <span style="color:#00bfbf; font-weight:800;">Ruan Fernandes :)</span>
 </h1>
 
 <p align="center">
