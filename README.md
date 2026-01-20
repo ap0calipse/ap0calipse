@@ -1,6 +1,7 @@
-<h1 align="center">
-  Olá, eu sou <span style="color:#00bfbf; font-weight:800;">Ruan Fernandes :)</span>
-</h1>
+<h2 align="center">
+  Olá, eu sou <span style="color:#00bfbf; font-weight:700;">Ruan Fernandes</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+</h2>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTR5NDhvc2g4Nmc4b2dpOWFvcG4wNHc2cXRuZ3oxcTl6MXRuamc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="110" />
