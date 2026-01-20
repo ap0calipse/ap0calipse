@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou <span style="color:#00bfbf; font-weight:800;">Ruan Fernandes (:</span>
+  Olá, eu sou <span style="color:#00bfbf; font-weight:800;">Ruan Fernandes</span>
 </h1>
 
 <p align="center">
@@ -24,10 +24,16 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 
 ---
 
-## 🛠️ Stack Tecnológica
+<h2>🧠 Stack & Ambiente</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,windows" />
+  <img src="https://img.shields.io/badge/Linguagens-00A8A8?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ferramentas-6D28D9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sistema%20Operacional-1F2937?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,windows&theme=dark" />
 </p>
 
 ---
