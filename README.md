@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTR5NDhvc2g4Nmc4b2dpOWFvcG4wNHc2cXRuZ3oxcTl6MXRuamc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="90" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTR5NDhvc2g4Nmc4b2dpOWFvcG4wNHc2cXRuZ3oxcTl6MXRuamc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="110" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 
 ---
 
-## 🕹️ Snake Activity
+## 🕹️ Arcade Activity
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
