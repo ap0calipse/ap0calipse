@@ -41,8 +41,6 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <img 
     height="165"
