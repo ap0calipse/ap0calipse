@@ -19,11 +19,34 @@
 
 ---
 
-## 🚀 Sobre Mim
+<hr>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com interesse crescente pela área de tecnologia e programação. Desde o primeiro contato com a área, venho buscando aprendizado contínuo para construir uma base técnica sólida e bem estruturada.
+<h2>🚀 Sobre Mim</h2>
 
-Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem **Python**, focando no desenvolvimento da lógica de programação, na compreensão de conceitos fundamentais e na evolução gradual das minhas habilidades como desenvolvedor.
+<p>
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, com grande interesse pela área de tecnologia e programação.
+Desde o meu primeiro contato com esse universo, venho buscando aprendizado contínuo, sempre com foco em construir uma
+<strong>base técnica sólida, organizada e consistente</strong>.
+</p>
+
+<p>
+Tenho direcionado meus estudos principalmente para a linguagem <strong>Python</strong>, explorando conceitos essenciais como
+lógica de programação, estruturas de controle, funções, manipulação de dados e boas práticas de desenvolvimento.
+Busco compreender não apenas <em>como</em> programar, mas <em>por que</em> cada solução funciona.
+</p>
+
+<p>
+Atualmente, estou em constante evolução, realizando exercícios práticos, pequenos projetos e estudos teóricos que me ajudam
+a desenvolver o raciocínio lógico, a autonomia na resolução de problemas e a capacidade de transformar ideias em código.
+Acredito que a prática aliada a uma boa base conceitual é essencial para o crescimento na área de tecnologia.
+</p>
+
+<p>
+Meu objetivo é evoluir gradualmente como desenvolvedor, ampliando meus conhecimentos em programação, ferramentas de
+desenvolvimento e fundamentos da computação, sempre buscando aprender algo novo e melhorar a cada dia.
+</p>
+
+<hr>
 
 ---
 
