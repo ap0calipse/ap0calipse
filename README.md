@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=00BFBF&center=true&vCenter=true&width=520&lines=Estudante+de+ADS;Desenvolvedor+Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&pause=2000&color=00BFBF&center=true&vCenter=true&width=520&lines=Estudante+de+ADS;Desenvolvedor+Python" />
 </p>
 
 <p align="center">
