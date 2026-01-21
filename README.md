@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&pause=2000&color=5EEAD4&center=true&vCenter=true&width=520&lines=Estudante+de+ADS;Desenvolvedor+Python&v=3" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=00BFBF&center=true&vCenter=true&width=520&lines=Estudante+de+ADS;Desenvolvedor+Python" 
+  />
 </p>
 
 <p align="center">
@@ -25,7 +27,7 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 
 ---
 
-<h2>🧠 Stack & Ambiente</h2>
+<h2 align="center">🧠 Stack & Ambiente</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linguagens-00A8A8?style=for-the-badge&logoColor=black"/>
@@ -35,6 +37,21 @@ Atualmente, curso ADS e direciono meus estudos principalmente para a linguagem *
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,windows&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ap0calipse&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap0calipse&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
