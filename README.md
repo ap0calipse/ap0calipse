@@ -24,7 +24,7 @@
 <h2>🚀 Sobre Mim</h2>
 
 <p>
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, com grande interesse pela área de tecnologia e programação.
+Sou estudante de <strong>desenvolvimento de software</strong>, com grande interesse pela área de tecnologia e programação.
 Desde o meu primeiro contato com esse universo, venho buscando aprendizado contínuo, sempre com foco em construir uma
 <strong>base técnica sólida, organizada e consistente</strong>.
 </p>
