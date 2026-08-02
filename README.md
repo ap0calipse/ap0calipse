@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou <span style="color:#00bfbf; font-weight:700;">Ruan Fernandes</span>
+  Olá, eu sou <span style="color:#00BFBF;">Ruan Fernandes</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
@@ -21,11 +21,9 @@
 
 Sou estudante de **Desenvolvimento de Software**, apaixonado por tecnologia e programação.
 
-Desde o meu primeiro contato com esse universo, venho construindo uma **base sólida em lógica, algoritmos e desenvolvimento**, sempre buscando aprender da forma correta e evoluir continuamente.
+Desde o meu primeiro contato com esse universo, venho construindo uma base sólida em lógica de programação, algoritmos e desenvolvimento, buscando sempre aprender da forma correta e evoluir continuamente.
 
 Tenho direcionado meus estudos principalmente para **Python**, explorando lógica de programação, estruturas de controle, funções, manipulação de dados e boas práticas de desenvolvimento.
-
-Acredito que a prática aliada a uma boa base conceitual é essencial para transformar ideias em soluções reais.
 
 Meu objetivo é evoluir constantemente como desenvolvedor, adquirindo conhecimentos cada vez mais profundos em programação e computação.
 
@@ -45,23 +43,26 @@ Meu objetivo é evoluir constantemente como desenvolvedor, adquirindo conhecimen
 
 ---
 
-# 🏆 GitHub
+<h2 align="center">⚡ Atualmente</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ap0calipse&label=Visualizações%20do%20Perfil&color=00bfbf&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-00BFBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Aprendendo%20Todos%20os%20Dias-6D28D9?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projetos-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linguagem-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linguagem-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ap0calipse?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20Meus%20Repositórios-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,windows&theme=dark"/>
+</p>
+
+<p align="center">
+  <i>💡 Sempre aprendendo, construindo projetos e evoluindo um commit por vez.</i>
 </p>
 
 ---
