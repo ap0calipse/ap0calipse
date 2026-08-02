@@ -64,16 +64,6 @@ desenvolvimento e fundamentos da computação, sempre buscando aprender algo nov
 
 ---
 
-<p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ap0calipse&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap0calipse&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 ---
 
