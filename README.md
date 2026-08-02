@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=00BFBF&center=true&vCenter=true&width=520&lines=Estudante+de+ADS;Desenvolvedor+Python" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=00BFBF&center=true&vCenter=true&width=520&lines=Estudante+de+ADS;Desenvolvedor+Python"
   />
 </p>
 
@@ -65,13 +65,15 @@ desenvolvimento e fundamentos da computação, sempre buscando aprender algo nov
 ---
 
 <p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ap0calipse&show_icons=true&theme=tokyonight&hide_border=true"
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ap0calipse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
   />
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap0calipse&layout=compact&theme=tokyonight&hide_border=true"
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap0calipse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
   />
 </p>
 
